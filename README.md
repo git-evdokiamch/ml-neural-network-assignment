@@ -75,13 +75,13 @@ Ease of Use                            Moderate                                 
 ⸻
 
 📂 Project Structure
-.
-├── fully_connected_nn.py
-├── experiment1.py
-├── experiment2.py
-├── experiment3.py
-├── report.pdf
-└── README.md
+*.
+*├── fully_connected_nn.py
+*├── experiment1.py
+*├── experiment2.py
+*├── experiment3.py
+*├── report.pdf
+*└── README.md
 
 ⸻
 
